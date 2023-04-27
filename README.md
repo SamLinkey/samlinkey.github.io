@@ -1,3 +1,3 @@
-# samlink.github.io
-samlink's Blog
+# Samlink.github.io
+Samlink's Blog
 nothing to read
