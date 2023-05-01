@@ -1,3 +1,3 @@
-# Samlink.github.io
+# Samlinkey.github.io
 Samlink's Blog
 nothing to read
